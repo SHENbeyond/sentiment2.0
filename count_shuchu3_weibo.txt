@@ -1,0 +1,1025 @@
+3	z	ADV	v	COO	v	ADV	v	VOB	v
+1	z	ADV	v	ATT	n	COO	v
+1	z	ADV	a	VOB	v
+2	z	ADV	a
+3	v	SBV	a	CMP	v
+11	v	SBV	a
+1	v	COO	v	SBV	a	COO	a
+1	v	COO	a	ATT	nl	POB	p	ADV	v
+1	v	COO	a
+9	v	ATT	n	VOB	v
+4	v	ATT	n	SBV	a
+2	v	ATT	a
+2	v	ADV	v
+1	v	ADV	n	VOB	v	VOB	v
+1	v	ADV	n	ADV	v
+2	v	ADV	a	VOB	v	COO	v	VOB	v
+1	v	ADV	a	COO	v
+1	v	ADV	a	COO	a
+10	v	ADV	a
+1	u	RAD	v	ATT	n	ATT	n	ATT	n	SBV	i	VOB	v	ATT	n	VOB	v
+1	u	RAD	a	ATT	n	SBV	v
+1	r	RAD	v	ADV	a
+1	r	ATT	nh	VOB	v	COO	v
+1	r	ATT	nh	VOB	v
+1	r	ATT	nh	ATT	n	SBV	v
+1	r	ATT	nh
+1	r	ATT	n	VOB	v	ATT	n	POB	p	ADV	v	VOB	v	VOB	v
+5	r	ATT	n	VOB	v
+1	r	ATT	n	SBV	v	COO	v
+1	r	ATT	n	SBV	v	COO	a	COO	v
+1	r	ATT	n	SBV	v
+1	r	ATT	n	SBV	n	VOB	v
+1	r	ATT	n	SBV	a	COO	v
+1	r	ATT	n	SBV	a	COO	i
+3	r	ATT	n	SBV	a
+1	r	ATT	n	POB	p	CMP	a	COO	v	ADV	v	ADV	v
+1	r	ATT	n	ATT	v	VOB	v
+2	r	ATT	n	ATT	v
+1	r	ATT	n	ATT	r
+1	r	ATT	n	ATT	n	VOB	v
+1	r	ATT	n	ATT	n	SBV	v	VOB	v
+2	r	ATT	n
+1	r	ATT	i	VOB	v	COO	v
+1	r	ATT	a	COO	v
+1	r	ATT	a	ATT	n	VOB	v
+1	r	ATT	a	ATT	n	SBV	d	COO	v
+2	r	ATT	a
+1	r	ADV	z	VOB	p	ADV	v	VOB	v	ADV	v
+1	r	ADV	z	COO	n	ATT	n	SBV	v
+2	r	ADV	z	ATT	v	VOB	v	VOB	v	SBV	v
+15	r	ADV	z	ATT	v	VOB	v	VOB	v	COO	v
+1	r	ADV	z	ATT	v	VOB	v	VOB	v	COO	a
+1	r	ADV	z	ATT	v	VOB	v	VOB	v
+8	r	ADV	z	ATT	v	VOB	v
+1	r	ADV	z	ATT	v	COO	v
+1	r	ADV	z	ATT	ns	SBV	v
+1	r	ADV	z	ATT	n	VOB	v	VOB	v	SBV	v
+2	r	ADV	z	ATT	n	VOB	v	VOB	v
+1	r	ADV	z	ATT	n	VOB	v	ADV	a
+10	r	ADV	z	ATT	n	VOB	v
+1	r	ADV	z	ATT	n	SBV	v
+1	r	ADV	z	ATT	n
+1	r	ADV	z	ATT	j	SBV	v
+1	r	ADV	z
+1	r	ADV	v	VOB	v	VOB	v
+1	r	ADV	v	VOB	v	COO	v	VOB	v
+1	r	ADV	v	COO	v
+1	r	ADV	v	COO	a
+1	r	ADV	v	ATT	n	SBV	v
+4	r	ADV	v
+1	r	ADV	m	ATT	q	ATT	n	DBL	v	COO	a
+1	r	ADV	i	VOB	v	ATT	v	ATT	nd	POB	p	ADV	v	ATT	nd	ADV	a
+1	r	ADV	i	VOB	v
+1	r	ADV	i	CMP	v
+1	r	ADV	i	ATT	nd	POB	p	ADV	v	ATT	nd	ADV	a
+1	r	ADV	a	VOB	v	VOB	v	COO	v	VOB	d
+1	r	ADV	a	VOB	v	SBV	v	ATT	n	SBV	i
+1	r	ADV	a	VOB	v	COO	v	VOB	v	SBV	v
+1	r	ADV	a	VOB	v	COO	v	SBV	v
+1	r	ADV	a	VOB	v	COO	v	COO	v	VOB	v
+12	r	ADV	a	VOB	v	COO	v
+1	r	ADV	a	VOB	v	COO	n
+2	r	ADV	a	VOB	v	ATT	v	VOB	v	COO	v
+2	r	ADV	a	VOB	v	ADV	v
+26	r	ADV	a	VOB	v
+1	r	ADV	a	VOB	c	COO	a
+1	r	ADV	a	VOB	c
+8	r	ADV	a	SBV	v
+1	r	ADV	a	POB	c	ADV	v	ADV	v
+5	r	ADV	a	COO	v
+2	r	ADV	a	COO	a	ATT	n	VOB	v	COO	v
+1	r	ADV	a	COO	a
+1	r	ADV	a	CMP	v	VOB	v	COO	v
+1	r	ADV	a	CMP	v	VOB	v
+1	r	ADV	a	CMP	v	COO	v	VOB	c	COO	a
+1	r	ADV	a	CMP	v	COO	v
+1	r	ADV	a	CMP	v	COO	d
+3	r	ADV	a	CMP	v
+1	r	ADV	a	CMP	a	COO	a	COO	v
+1	r	ADV	a	ATT	v	VOB	v	COO	n	VOB	v
+1	r	ADV	a	ATT	v	SBV	v
+1	r	ADV	a	ATT	v	COO	v
+10	r	ADV	a	ATT	v
+1	r	ADV	a	ATT	nd	ADV	v
+1	r	ADV	a	ATT	n	VOB	v	VOB	v	COO	a
+1	r	ADV	a	ATT	n	VOB	v	VOB	v	ADV	v
+1	r	ADV	a	ATT	n	VOB	v	SBV	v	SBV	i
+7	r	ADV	a	ATT	n	VOB	v	SBV	a
+1	r	ADV	a	ATT	n	VOB	v	COO	v
+1	r	ADV	a	ATT	n	VOB	v	ATT	n	POB	p	ADV	v
+4	r	ADV	a	ATT	n	VOB	v
+2	r	ADV	a	ATT	n	SBV	v	VOB	v	COO	v
+1	r	ADV	a	ATT	n	SBV	v	VOB	v	ADV	i
+3	r	ADV	a	ATT	n	SBV	v	VOB	v
+1	r	ADV	a	ATT	n	SBV	v	SBV	a
+3	r	ADV	a	ATT	n	SBV	v	COO	v
+12	r	ADV	a	ATT	n	SBV	v
+1	r	ADV	a	ATT	n	SBV	a
+1	r	ADV	a	ATT	n	FOB	v	VOB	v	COO	v
+1	r	ADV	a	ATT	n	FOB	v
+1	r	ADV	a	ATT	n	DBL	v	COO	i
+1	r	ADV	a	ATT	n	ATT	v	COO	v
+1	r	ADV	a	ATT	n	ATT	v
+1	r	ADV	a	ATT	n	ATT	u
+1	r	ADV	a	ATT	n	ATT	n	SBV	v	VOB	v	VOB	v
+1	r	ADV	a	ATT	n	ADV	v	COO	v
+1	r	ADV	a	ADV	v	VOB	v
+1	r	ADV	a	ADV	v	COO	c	COO	v
+6	r	ADV	a	ADV	v
+43	r	ADV	a
+1	q	POB	p	ADV	v	VOB	v	COO	a
+1	q	CMP	v	VOB	v	VOB	v
+1	q	CMP	a	SBV	a	VOB	c
+1	q	ATT	r	VOB	v	SBV	i	COO	v
+2	q	ATT	n	VOB	v
+1	q	ATT	n	FOB	v
+1	q	ATT	a	VOB	v	COO	a
+5	p	ADV	v	COO	v
+1	nh	ATT	n
+1	n	VOB	v	ATT	n	VOB	v	COO	a
+1	n	VOB	v	ADV	v	VOB	v	COO	v
+1	n	SBV	v	COO	a
+4	n	SBV	a	VOB	v	SBV	v
+1	n	SBV	a	COO	n	SBV	v
+4	n	SBV	a
+1	n	ATT	nh	SBV	a
+1	n	ATT	n	SBV	v
+1	n	ATT	n	SBV	i
+1	n	ATT	n	SBV	a
+1	n	ATT	n
+1	n	ATT	a	SBV	v
+2	n	ATT	a	ATT	n	SBV	v
+1	n	ATT	a
+1	m	VOB	p	CMP	v	COO	n
+1	m	RAD	v	SBV	a
+4	m	RAD	v	COO	v
+1	m	RAD	v	COO	i
+1	m	RAD	v	COO	a
+1	m	RAD	v	ATT	nd	ADV	v
+2	m	RAD	i	COO	v
+1	m	RAD	a	COO	a
+2	m	RAD	a	CMP	v
+8	m	RAD	a
+1	m	CMP	v
+1	m	CMP	a	VOB	v	COO	v
+1	m	CMP	a	VOB	v
+1	m	CMP	a	SBV	c
+1	m	CMP	a	CMP	v	COO	v
+1	m	CMP	a	ATT	v
+1	m	CMP	a	ATT	n	SBV	v
+7	m	CMP	a
+1	m	ATT	v	VOB	v	VOB	d
+1	m	ATT	n	VOB	v	SBV	a	VOB	v
+2	m	ATT	n	VOB	v	COO	v	VOB	v
+1	m	ATT	n	VOB	v	COO	v
+1	m	ATT	n	VOB	v	ADV	v	COO	v
+4	m	ATT	n	VOB	v
+2	m	ATT	n	SBV	v	VOB	v	POB	p	ADV	a	SBV	v
+3	m	ATT	n	SBV	v	COO	v
+1	m	ATT	n	SBV	v	ATT	n	ADV	a
+3	m	ATT	n	SBV	v
+1	m	ATT	n	SBV	a	VOB	v
+1	m	ATT	n	SBV	a	COO	n
+1	m	ATT	n	SBV	a	ADV	a
+1	m	ATT	n	POB	p	ADV	v	VOB	v
+1	m	ATT	n	ATT	nt	VOB	v	COO	v	COO	v
+1	m	ATT	n	ATT	nd	POB	p	ADV	v	VOB	v	COO	a
+1	m	ATT	n	ATT	n	SBV	v	ATT	n	SBV	a	COO	v
+1	m	ATT	n	ATT	n	SBV	a	ATT	n	VOB	v
+2	m	ADV	a	VOB	v
+1	m	ADV	a	COO	v
+7	m	ADV	a
+1	i	ATT	n	SBV	i
+1	i	ATT	n	SBV	a
+1	i	ATT	a	COO	v
+3	i	ATT	a	COO	n	VOB	v	ADV	v
+1	i	ATT	a	COO	n	VOB	v
+2	i	ATT	a	COO	n	SBV	v
+1	d	VOB	v	COO	a
+1	d	SBV	v
+1	d	SBV	a	ADV	v
+1	d	SBV	a
+1	d	COO	v	COO	a
+1	d	COO	v	ADV	a
+1	d	COO	a	ADV	v
+2	d	COO	a
+2	d	CMP	v	COO	v
+1	d	CMP	v	COO	a	ADV	v
+1	d	CMP	v	COO	a
+2	d	CMP	v
+2	d	CMP	a	COO	i
+1	d	CMP	a	ADV	v	COO	v
+1	d	CMP	a
+1	d	ATT	v
+1	d	ATT	n	VOB	v	COO	a	COO	a
+1	d	ATT	n	VOB	v
+2	d	ATT	n	SBV	v	ATT	n	VOB	v	COO	v
+2	d	ATT	n	SBV	v
+4	d	ATT	n	DBL	v
+4	d	ATT	n	COO	n	SBV	v
+1	d	ATT	n
+1	d	ATT	m	ATT	n	ATT	n	SBV	v	COO	a
+1	d	ATT	m
+1	d	ATT	a	COO	v	COO	v
+2	d	ATT	a
+1	d	ADV	z	VOB	v	SBV	v
+2	d	ADV	z	VOB	v
+1	d	ADV	z	VOB	d
+2	d	ADV	z	SBV	v
+1	d	ADV	z	POB	p	ADV	v
+2	d	ADV	z	COO	v
+1	d	ADV	z	ATT	n	VOB	v	VOB	v	COO	v
+2	d	ADV	z	ATT	n	VOB	v	COO	v
+1	d	ADV	z	ATT	n	VOB	v
+5	d	ADV	z	ATT	n	SBV	v
+1	d	ADV	z	ATT	n	SBV	a
+4	d	ADV	z	ATT	n	COO	n
+1	d	ADV	z	ATT	n	ATT	v	SBV	v
+1	d	ADV	z	ATT	n	ATT	n
+1	d	ADV	z	ATT	m	VOB	v	COO	p
+1	d	ADV	z	ATT	j	VOB	d
+3	d	ADV	v	VOB	v	VOB	v
+1	d	ADV	v	VOB	v	SBV	v
+1	d	ADV	v	VOB	v	COO	v	POB	p	ADV	v	VOB	v
+6	d	ADV	v	VOB	v	COO	v
+1	d	ADV	v	VOB	v	COO	a	COO	v
+8	d	ADV	v	VOB	v	COO	a
+1	d	ADV	v	VOB	v	ATT	n	VOB	v
+2	d	ADV	v	VOB	v	ADV	v
+4	d	ADV	v	VOB	v	ADV	i
+31	d	ADV	v	VOB	v
+1	d	ADV	v	VOB	d
+4	d	ADV	v	VOB	c
+1	d	ADV	v	SBV	v	VOB	v
+1	d	ADV	v	SBV	v	COO	a
+19	d	ADV	v	SBV	v
+1	d	ADV	v	SBV	i	COO	v
+1	d	ADV	v	SBV	c	ADV	a	ATT	n	VOB	v
+1	d	ADV	v	SBV	a	COO	a
+4	d	ADV	v	SBV	a
+1	d	ADV	v	COO	v	VOB	v	COO	v	COO	v
+8	d	ADV	v	COO	v	VOB	v	COO	v
+1	d	ADV	v	COO	v	VOB	v	COO	a	COO	v
+8	d	ADV	v	COO	v	VOB	v
+2	d	ADV	v	COO	v	SBV	v
+1	d	ADV	v	COO	v	SBV	a	COO	a
+3	d	ADV	v	COO	v	SBV	a
+4	d	ADV	v	COO	v	COO	v	SBV	v
+3	d	ADV	v	COO	v	COO	v	COO	v	VOB	v
+6	d	ADV	v	COO	v	COO	v	COO	v	SBV	v
+1	d	ADV	v	COO	v	COO	v	COO	v	COO	v
+1	d	ADV	v	COO	v	COO	v	COO	v	ATT	n	SBV	v	VOB	n
+1	d	ADV	v	COO	v	COO	v	COO	i
+1	d	ADV	v	COO	v	COO	v	COO	a	ADV	v
+1	d	ADV	v	COO	v	COO	v	ATT	v
+14	d	ADV	v	COO	v	COO	v
+1	d	ADV	v	COO	v	COO	i	ADV	a
+4	d	ADV	v	COO	v	COO	a	SBV	v
+6	d	ADV	v	COO	v	COO	a
+1	d	ADV	v	COO	v	ATT	n	POB	p	CMP	v
+1	d	ADV	v	COO	v	ATT	n	ATT	nh	ATT	n
+1	d	ADV	v	COO	v	ATT	n
+1	d	ADV	v	COO	v	ADV	v
+111	d	ADV	v	COO	v
+1	d	ADV	v	COO	p	ADV	v
+1	d	ADV	v	COO	nh	SBV	v
+1	d	ADV	v	COO	n	VOB	v	ADV	v
+1	d	ADV	v	COO	i	COO	v
+9	d	ADV	v	COO	i
+2	d	ADV	v	COO	d	COO	a
+2	d	ADV	v	COO	c
+1	d	ADV	v	COO	a	VOB	v	VOB	v
+6	d	ADV	v	COO	a	VOB	v
+2	d	ADV	v	COO	a	SBV	v
+2	d	ADV	v	COO	a	RAD	p	ADV	a
+1	d	ADV	v	COO	a	POB	p	VOB	v
+1	d	ADV	v	COO	a	COO	v	ADV	v
+3	d	ADV	v	COO	a	COO	v
+1	d	ADV	v	COO	a	COO	n
+1	d	ADV	v	COO	a	CMP	v	VOB	v	ATT	n	VOB	v
+1	d	ADV	v	COO	a	CMP	v	ATT	v
+1	d	ADV	v	COO	a	ATT	n	SBV	v
+1	d	ADV	v	COO	a	ADV	v	ATT	n	ATT	nd
+1	d	ADV	v	COO	a	ADV	v
+59	d	ADV	v	COO	a
+2	d	ADV	v	CMP	v	VOB	v	COO	v
+1	d	ADV	v	CMP	v	ATT	n	ATT	ws	VOB	c	COO	c
+1	d	ADV	v	ATT	v	COO	v
+3	d	ADV	v	ATT	v
+1	d	ADV	v	ATT	q	SBV	v
+1	d	ADV	v	ATT	q
+2	d	ADV	v	ATT	nh	POB	n
+1	d	ADV	v	ATT	n	VOB	v	VOB	v	COO	v
+1	d	ADV	v	ATT	n	VOB	v	COO	v	COO	v
+6	d	ADV	v	ATT	n	VOB	v	COO	v
+5	d	ADV	v	ATT	n	VOB	v
+1	d	ADV	v	ATT	n	SBV	v	COO	v
+1	d	ADV	v	ATT	n	SBV	v	ATT	n	ATT	n	ATT	nd	ATT	n	SBV	v
+12	d	ADV	v	ATT	n	SBV	v
+1	d	ADV	v	ATT	n	SBV	r
+1	d	ADV	v	ATT	n	SBV	a	VOB	v
+1	d	ADV	v	ATT	n	SBV	a	COO	v	COO	v
+2	d	ADV	v	ATT	n	SBV	a	COO	v
+1	d	ADV	v	ATT	n	COO	v
+1	d	ADV	v	ATT	n	ATT	r	VOB	v
+1	d	ADV	v	ATT	n	ATT	n	VOB	v
+2	d	ADV	v	ATT	n	ATT	n	SBV	v
+4	d	ADV	v	ATT	n	ATT	n	ATT	ws
+1	d	ADV	v	ATT	n	ATT	n	ATT	ns
+1	d	ADV	v	ATT	n	ATT	n
+2	d	ADV	v	ATT	n	ADV	v
+2	d	ADV	v	ATT	n	ADV	b
+15	d	ADV	v	ATT	n
+1	d	ADV	v	ATT	m
+1	d	ADV	v	ATT	a	VOB	v
+1	d	ADV	v	ATT	a
+1	d	ADV	v	ADV	v	VOB	v	SBV	v
+1	d	ADV	v	ADV	v	VOB	v	COO	v	COO	v	COO	v	COO	v	COO	v
+4	d	ADV	v	ADV	v	VOB	v	COO	v
+1	d	ADV	v	ADV	v	VOB	v	COO	a	SBV	v
+1	d	ADV	v	ADV	v	VOB	v	COO	a
+8	d	ADV	v	ADV	v	VOB	v
+3	d	ADV	v	ADV	v	VOB	c
+1	d	ADV	v	ADV	v	SBV	v
+2	d	ADV	v	ADV	v	COO	v	VOB	v
+1	d	ADV	v	ADV	v	COO	v	SBV	v
+1	d	ADV	v	ADV	v	COO	v	COO	v	COO	v	VOB	v	COO	v
+2	d	ADV	v	ADV	v	COO	v	COO	v	COO	v
+1	d	ADV	v	ADV	v	COO	v	COO	v	ATT	r	ADV	a
+3	d	ADV	v	ADV	v	COO	v	COO	v
+1	d	ADV	v	ADV	v	COO	v	COO	n
+1	d	ADV	v	ADV	v	COO	v	COO	c	ADV	v
+31	d	ADV	v	ADV	v	COO	v
+1	d	ADV	v	ADV	v	COO	nd	POB	p	ADV	v
+2	d	ADV	v	ADV	v	COO	d	COO	a
+1	d	ADV	v	ADV	v	COO	c
+1	d	ADV	v	ADV	v	COO	a	COO	v
+2	d	ADV	v	ADV	v	COO	a	CMP	v
+1	d	ADV	v	ADV	v	COO	a	ATT	r
+1	d	ADV	v	ADV	v	COO	a	ATT	n
+3	d	ADV	v	ADV	v	COO	a
+4	d	ADV	v	ADV	v	ATT	r	VOB	v
+1	d	ADV	v	ADV	v	ATT	n	VOB	v	COO	a	ADV	v	POB	p	ADV	v
+1	d	ADV	v	ADV	v	ATT	n	SBV	a	ADV	a
+1	d	ADV	v	ADV	v	ATT	n	POB	a
+1	d	ADV	v	ADV	v	ADV	v	COO	v
+2	d	ADV	v	ADV	v	ADV	v
+67	d	ADV	v	ADV	v
+2	d	ADV	v	ADV	u
+2	d	ADV	v	ADV	r
+1	d	ADV	v	ADV	p	RAD	v
+1	d	ADV	v	ADV	j	VOB	d
+1	d	ADV	v	ADV	i	COO	i
+2	d	ADV	v	ADV	a	VOB	v	COO	v
+3	d	ADV	v	ADV	a	COO	v	COO	v
+2	d	ADV	v	ADV	a	COO	v
+3	d	ADV	v	ADV	a	COO	a	SBV	p
+1	d	ADV	v	ADV	a	COO	a
+1	d	ADV	v	ADV	a	ATT	r	COO	n	VOB	v	VOB	v
+2	d	ADV	v	ADV	a	ATT	n	VOB	v	COO	v
+1	d	ADV	v	ADV	a	ATT	n	VOB	v	ADV	a
+6	d	ADV	v	ADV	a	ATT	n	VOB	v
+1	d	ADV	v	ADV	a	ATT	n	VOB	p	ADV	v
+1	d	ADV	v	ADV	a	ATT	n	SBV	v	VOB	v
+13	d	ADV	v	ADV	a
+300	d	ADV	v
+1	d	ADV	p	COO	a
+9	d	ADV	n	VOB	v	VOB	v
+1	d	ADV	n	VOB	v	SBV	v
+2	d	ADV	n	VOB	v	COO	v
+4	d	ADV	n	VOB	v	CMP	v
+5	d	ADV	n	VOB	v
+1	d	ADV	n	SBV	v
+2	d	ADV	n	SBV	i
+4	d	ADV	n	COO	v
+1	d	ADV	n	COO	q	VOB	v
+2	d	ADV	n	COO	nz	SBV	v
+3	d	ADV	n	COO	n	VOB	v
+1	d	ADV	n	COO	n	COO	a	COO	v
+3	d	ADV	n	COO	a	COO	a
+3	d	ADV	n	COO	a
+1	d	ADV	n	ATT	v
+1	d	ADV	n	ATT	n	VOB	v	COO	v	VOB	v
+1	d	ADV	n	ATT	n	VOB	v
+2	d	ADV	n	ATT	n	VOB	p	ADV	v
+1	d	ADV	n	ATT	n	SBV	v	ADV	v	VOB	v	COO	v	COO	v
+1	d	ADV	n	ATT	n	SBV	i
+3	d	ADV	n	ATT	n	ATT	n	VOB	v	COO	v	COO	v
+1	d	ADV	n	ADV	v
+16	d	ADV	n
+1	d	ADV	j	COO	a	ATT	n	VOB	v	COO	v
+1	d	ADV	i	VOB	v	SBV	a
+1	d	ADV	i	VOB	v	ATT	v	ATT	nd	POB	p	ADV	v	ATT	nd	ADV	a
+4	d	ADV	i	VOB	v
+1	d	ADV	i	POB	p	ADV	a
+4	d	ADV	i	COO	v	COO	v
+1	d	ADV	i	COO	v	COO	a	ATT	n	POB	p	ADV	v
+5	d	ADV	i	COO	v	ADV	v
+6	d	ADV	i	COO	v
+1	d	ADV	i	COO	i	COO	v	COO	n
+1	d	ADV	i	ATT	nd	POB	p	ADV	v	ATT	nd	ADV	a
+1	d	ADV	i	ATT	n	SBV	v	COO	a	COO	v	COO	n	SBV	v
+2	d	ADV	i	ATT	n	SBV	v
+2	d	ADV	i	ATT	n	ATT	ws	SBV	v
+2	d	ADV	i	ATT	n	ATT	nh	ATT	ws	POB	p	ADV	v
+3	d	ADV	i	ATT	n
+1	d	ADV	i	ADV	v	ATT	n	SBV	v
+1	d	ADV	i	ADV	v
+19	d	ADV	i
+2	d	ADV	d	COO	a	COO	v
+1	d	ADV	d	ADV	z	VOB	v
+1	d	ADV	d	ADV	v	COO	v	COO	a
+1	d	ADV	d	ADV	v	COO	v
+1	d	ADV	d	ADV	v	ADV	i
+2	d	ADV	d	ADV	v	ADV	a	ATT	n	VOB	v	COO	v
+1	d	ADV	d	ADV	i	POB	p	ADV	v
+2	d	ADV	d	ADV	a	VOB	v	COO	v
+1	d	ADV	d	ADV	a	VOB	v
+4	d	ADV	d	ADV	a	COO	v
+1	d	ADV	d	ADV	a	COO	a
+1	d	ADV	d	ADV	a	ATT	n	VOB	v
+7	d	ADV	d	ADV	a	ATT	n
+5	d	ADV	d	ADV	a
+1	d	ADV	b	VOB	v	VOB	d
+1	d	ADV	b	VOB	v
+1	d	ADV	b	VOB	p
+4	d	ADV	b	COO	v
+2	d	ADV	b	ATT	n	VOB	v	COO	v
+3	d	ADV	b	ATT	n	VOB	v
+1	d	ADV	b	ATT	n	SBV	v
+1	d	ADV	b	ATT	n	SBV	n
+1	d	ADV	b	ATT	n	ATT	r	ATT	ws	SBV	v
+1	d	ADV	b	ATT	n	ATT	n	VOB	v
+1	d	ADV	b	ATT	n
+1	d	ADV	b	ADV	v	VOB	v	COO	v	COO	v
+1	d	ADV	a	VOB	v	VOB	v	COO	v	COO	a
+8	d	ADV	a	VOB	v	VOB	v	COO	v
+5	d	ADV	a	VOB	v	VOB	v
+3	d	ADV	a	VOB	v	SBV	v	VOB	v	COO	v
+1	d	ADV	a	VOB	v	SBV	v	COO	v	COO	v
+8	d	ADV	a	VOB	v	SBV	v
+1	d	ADV	a	VOB	v	SBV	i
+1	d	ADV	a	VOB	v	SBV	a
+1	d	ADV	a	VOB	v	POB	p	VOB	v
+2	d	ADV	a	VOB	v	POB	p	ADV	v
+1	d	ADV	a	VOB	v	COO	v	VOB	v	VOB	n
+1	d	ADV	a	VOB	v	COO	v	VOB	v	COO	v
+3	d	ADV	a	VOB	v	COO	v	VOB	v
+1	d	ADV	a	VOB	v	COO	v	COO	v	COO	n
+5	d	ADV	a	VOB	v	COO	v	COO	v
+1	d	ADV	a	VOB	v	COO	v	COO	a
+1	d	ADV	a	VOB	v	COO	v	ATT	n	SBV	v
+45	d	ADV	a	VOB	v	COO	v
+3	d	ADV	a	VOB	v	COO	i
+1	d	ADV	a	VOB	v	COO	c
+1	d	ADV	a	VOB	v	COO	a	VOB	v	COO	v
+1	d	ADV	a	VOB	v	COO	a	VOB	v
+2	d	ADV	a	VOB	v	COO	a
+1	d	ADV	a	VOB	v	ATT	n	VOB	v
+1	d	ADV	a	VOB	v	ATT	n	SBV	v
+1	d	ADV	a	VOB	v	ATT	n	POB	p	ADV	v
+2	d	ADV	a	VOB	v	ATT	n	ATT	n	POB	p	ADV	v
+2	d	ADV	a	VOB	v	ADV	v
+129	d	ADV	a	VOB	v
+1	d	ADV	a	VOB	p	CMP	v	VOB	v
+1	d	ADV	a	VOB	d	VOB	v	SBV	v
+10	d	ADV	a	VOB	d	COO	v
+1	d	ADV	a	VOB	d	ADV	v	ATT	n	ADV	v
+9	d	ADV	a	VOB	d
+1	d	ADV	a	VOB	c	COO	n	VOB	v	POB	p	ADV	v
+13	d	ADV	a	VOB	c
+1	d	ADV	a	VOB	a
+1	d	ADV	a	SBV	v	VOB	v	VOB	v	COO	j	SBV	v	ADV	c
+1	d	ADV	a	SBV	v	VOB	v	COO	v	COO	a	ATT	v	SBV	v
+1	d	ADV	a	SBV	v	POB	p	ADV	v	COO	v	COO	u
+1	d	ADV	a	SBV	v	COO	v	COO	v	VOB	v
+1	d	ADV	a	SBV	v	COO	v
+2	d	ADV	a	SBV	v	ATT	n	VOB	v
+54	d	ADV	a	SBV	v
+2	d	ADV	a	SBV	q	ATT	n	VOB	v
+1	d	ADV	a	SBV	p
+2	d	ADV	a	SBV	i
+2	d	ADV	a	SBV	c
+1	d	ADV	a	SBV	b	COO	v
+2	d	ADV	a	SBV	a	ATT	n	VOB	v	COO	v
+1	d	ADV	a	RAD	v	POB	p	ADV	v	COO	v
+2	d	ADV	a	RAD	p	ADV	v	COO	v
+2	d	ADV	a	POB	p	ADV	v	COO	v
+1	d	ADV	a	POB	p	ADV	v
+1	d	ADV	a	POB	c	ADV	v	ADV	v
+8	d	ADV	a	POB	c	ADV	v
+1	d	ADV	a	POB	c	ADV	a
+1	d	ADV	a	FOB	v
+1	d	ADV	a	COO	v	VOB	v	VOB	v	COO	v	COO	v	COO	v
+7	d	ADV	a	COO	v	VOB	v	VOB	v
+1	d	ADV	a	COO	v	VOB	v	COO	v
+9	d	ADV	a	COO	v	VOB	v
+1	d	ADV	a	COO	v	VOB	d	COO	v	SBV	v
+4	d	ADV	a	COO	v	SBV	v
+1	d	ADV	a	COO	v	SBV	p
+1	d	ADV	a	COO	v	SBV	i
+1	d	ADV	a	COO	v	POB	c	ADV	v
+10	d	ADV	a	COO	v	COO	v	VOB	v
+1	d	ADV	a	COO	v	COO	v	VOB	n
+2	d	ADV	a	COO	v	COO	v	COO	v	VOB	v
+2	d	ADV	a	COO	v	COO	v	COO	v	COO	v
+1	d	ADV	a	COO	v	COO	v	COO	v	ATT	n	SBV	v	SBV	v
+4	d	ADV	a	COO	v	COO	v	COO	v
+1	d	ADV	a	COO	v	COO	v	ATT	n	VOB	v	VOB	v
+4	d	ADV	a	COO	v	COO	v	ATT	n
+39	d	ADV	a	COO	v	COO	v
+1	d	ADV	a	COO	v	COO	n	SBV	v
+3	d	ADV	a	COO	v	COO	i	VOB	v	COO	v	ADV	v
+1	d	ADV	a	COO	v	COO	i	VOB	v
+1	d	ADV	a	COO	v	COO	a	COO	a	ADV	p
+5	d	ADV	a	COO	v	COO	a
+2	d	ADV	a	COO	v	ATT	v
+1	d	ADV	a	COO	v	ATT	n	VOB	v	ATT	d
+1	d	ADV	a	COO	v	ATT	n	VOB	v
+7	d	ADV	a	COO	v	ATT	n	SBV	v
+1	d	ADV	a	COO	v	ATT	n
+2	d	ADV	a	COO	v	ADV	v	SBV	v
+1	d	ADV	a	COO	v	ADV	v
+2	d	ADV	a	COO	v	ADV	n	ATT	q
+205	d	ADV	a	COO	v
+1	d	ADV	a	COO	p	ADV	v	COO	v	VOB	n
+5	d	ADV	a	COO	o
+1	d	ADV	a	COO	n	VOB	v	SBV	v
+5	d	ADV	a	COO	n	SBV	v
+1	d	ADV	a	COO	n	ATT	nh	COO	v
+5	d	ADV	a	COO	n
+1	d	ADV	a	COO	m	COO	m	VOB	v
+1	d	ADV	a	COO	i	VOB	v	ATT	n	VOB	v
+1	d	ADV	a	COO	i	POB	p	ADV	v
+2	d	ADV	a	COO	i	COO	v
+1	d	ADV	a	COO	i	ADV	v
+7	d	ADV	a	COO	i
+1	d	ADV	a	COO	d	COO	v
+2	d	ADV	a	COO	d
+3	d	ADV	a	COO	c
+1	d	ADV	a	COO	b	VOB	v
+4	d	ADV	a	COO	a	VOB	v	VOB	v
+4	d	ADV	a	COO	a	VOB	v	COO	v
+8	d	ADV	a	COO	a	VOB	v
+1	d	ADV	a	COO	a	SBV	v	ATT	b	ATT	nz	ATT	ws	POB	p	ADV	v
+5	d	ADV	a	COO	a	SBV	v
+3	d	ADV	a	COO	a	SBV	p
+1	d	ADV	a	COO	a	SBV	a
+1	d	ADV	a	COO	a	RAD	m	VOB	v	COO	v
+1	d	ADV	a	COO	a	POB	p	ADV	v	SBV	v
+2	d	ADV	a	COO	a	COO	v	VOB	v
+1	d	ADV	a	COO	a	COO	v	SBV	v
+2	d	ADV	a	COO	a	COO	v	COO	v	VOB	v
+2	d	ADV	a	COO	a	COO	v	COO	v
+2	d	ADV	a	COO	a	COO	v	ATT	nd	POB	p	ADV	v	COO	v
+14	d	ADV	a	COO	a	COO	v
+1	d	ADV	a	COO	a	COO	n
+1	d	ADV	a	COO	a	COO	i	SBV	v
+1	d	ADV	a	COO	a	COO	i
+1	d	ADV	a	COO	a	COO	c
+1	d	ADV	a	COO	a	COO	a	VOB	v	VOB	v	COO	n
+6	d	ADV	a	COO	a	COO	a	VOB	v
+2	d	ADV	a	COO	a	COO	a	COO	a
+1	d	ADV	a	COO	a	COO	a	ATT	ws	VOB	v	CMP	v	VOB	v
+2	d	ADV	a	COO	a	COO	a	ATT	n	VOB	v	COO	v
+3	d	ADV	a	COO	a	COO	a	ADV	v
+20	d	ADV	a	COO	a	COO	a
+2	d	ADV	a	COO	a	CMP	v	POB	p	ADV	v
+1	d	ADV	a	COO	a	CMP	v	COO	v
+3	d	ADV	a	COO	a	CMP	v
+1	d	ADV	a	COO	a	CMP	n	ATT	n	COO	n
+1	d	ADV	a	COO	a	ATT	ws	POB	p	ADV	v
+1	d	ADV	a	COO	a	ATT	u
+3	d	ADV	a	COO	a	ATT	q	ATT	n	ATT	ws	VOB	v
+2	d	ADV	a	COO	a	ATT	nz	SBV	v
+1	d	ADV	a	COO	a	ATT	nz	ATT	ws	SBV	v
+2	d	ADV	a	COO	a	ATT	n	VOB	v	COO	v
+5	d	ADV	a	COO	a	ATT	n	VOB	v
+2	d	ADV	a	COO	a	ATT	n	SBV	v
+2	d	ADV	a	COO	a	ATT	n	POB	p	ADV	v
+3	d	ADV	a	COO	a	ATT	n	COO	n	VOB	v	SBV	v
+1	d	ADV	a	COO	a	ATT	n	ATT	ws
+1	d	ADV	a	COO	a	ATT	n	ATT	i	VOB	v	COO	v	SBV	v
+1	d	ADV	a	COO	a	ATT	n
+4	d	ADV	a	COO	a	ADV	v	COO	v
+1	d	ADV	a	COO	a	ADV	v	ATT	n	VOB	v	POB	p	CMP	v	VOB	v	COO	v
+3	d	ADV	a	COO	a	ADV	v	ATT	n	VOB	v	COO	i
+4	d	ADV	a	COO	a	ADV	v
+1	d	ADV	a	COO	a	ADV	a
+122	d	ADV	a	COO	a
+1	d	ADV	a	CMP	v	VOB	v	VOB	v	COO	v	VOB	v
+1	d	ADV	a	CMP	v	VOB	v	COO	v	VOB	v
+13	d	ADV	a	CMP	v	VOB	v	COO	v
+1	d	ADV	a	CMP	v	VOB	v	ATT	n	VOB	v
+21	d	ADV	a	CMP	v	VOB	v
+2	d	ADV	a	CMP	v	SBV	v
+1	d	ADV	a	CMP	v	POB	p	ADV	v
+1	d	ADV	a	CMP	v	POB	p	ADV	a
+2	d	ADV	a	CMP	v	COO	v	VOB	v
+1	d	ADV	a	CMP	v	COO	v	SBV	v
+1	d	ADV	a	CMP	v	COO	v	COO	v	VOB	v	ADV	n	SBV	v
+1	d	ADV	a	CMP	v	COO	v	COO	v	VOB	v
+2	d	ADV	a	CMP	v	COO	v	COO	v	ATT	n	SBV	v
+9	d	ADV	a	CMP	v	COO	v	COO	v
+1	d	ADV	a	CMP	v	COO	v	COO	a	COO	v
+1	d	ADV	a	CMP	v	COO	v	COO	a
+14	d	ADV	a	CMP	v	COO	v
+1	d	ADV	a	CMP	v	COO	n	SBV	v
+1	d	ADV	a	CMP	v	COO	i
+1	d	ADV	a	CMP	v	CMP	v	VOB	v
+1	d	ADV	a	CMP	v	ATT	v
+3	d	ADV	a	CMP	v	ATT	n	VOB	v
+1	d	ADV	a	CMP	v	ATT	n	POB	p	ADV	v	COO	v
+4	d	ADV	a	CMP	v	ATT	m
+1	d	ADV	a	CMP	v	ADV	n
+64	d	ADV	a	CMP	v
+1	d	ADV	a	CMP	p	ADV	v
+1	d	ADV	a	CMP	n	VOB	v
+1	d	ADV	a	CMP	n	ATT	n	COO	n
+1	d	ADV	a	ATT	z	VOB	v
+2	d	ADV	a	ATT	ws	VOB	v
+4	d	ADV	a	ATT	v	VOB	v	VOB	v
+1	d	ADV	a	ATT	v	VOB	v	COO	v	COO	v
+4	d	ADV	a	ATT	v	VOB	v	COO	v
+2	d	ADV	a	ATT	v	VOB	v
+7	d	ADV	a	ATT	v
+1	d	ADV	a	ATT	r	VOB	v	VOB	v	COO	v
+1	d	ADV	a	ATT	r	VOB	v	COO	v	COO	v	ADV	i
+2	d	ADV	a	ATT	r	VOB	v
+1	d	ADV	a	ATT	r	ATT	e	POB	p
+2	d	ADV	a	ATT	q	VOB	v	VOB	v	COO	v	VOB	v	COO	v
+1	d	ADV	a	ATT	q	VOB	v	VOB	v
+1	d	ADV	a	ATT	q	VOB	v	ADV	a
+2	d	ADV	a	ATT	q	VOB	v
+1	d	ADV	a	ATT	q	SBV	v	ATT	v	COO	v
+2	d	ADV	a	ATT	q	SBV	v
+2	d	ADV	a	ATT	q	FOB	v
+1	d	ADV	a	ATT	q	ATT	n	VOB	v	VOB	v
+2	d	ADV	a	ATT	q	ATT	n	VOB	v	COO	v
+1	d	ADV	a	ATT	q	ATT	n	SBV	v	COO	v
+2	d	ADV	a	ATT	q
+2	d	ADV	a	ATT	nz	ATT	ws	SBV	v
+1	d	ADV	a	ATT	nz	ATT	ws
+1	d	ADV	a	ATT	nz	ATT	n	VOB	v
+1	d	ADV	a	ATT	nz	ATT	n
+2	d	ADV	a	ATT	nz
+1	d	ADV	a	ATT	nt	ADV	v
+1	d	ADV	a	ATT	ns	VOB	v
+1	d	ADV	a	ATT	ns	SBV	v	COO	v
+1	d	ADV	a	ATT	ns	ATT	nz
+4	d	ADV	a	ATT	ns	ATT	nh	VOB	v
+1	d	ADV	a	ATT	nh	VOB	v
+1	d	ADV	a	ATT	nh	SBV	a
+1	d	ADV	a	ATT	nh	COO	n	ATT	nh	SBV	a
+1	d	ADV	a	ATT	nh
+1	d	ADV	a	ATT	n	VOB	v	VOB	v	VOB	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	VOB	v	VOB	v	COO	i
+4	d	ADV	a	ATT	n	VOB	v	VOB	v	VOB	v
+3	d	ADV	a	ATT	n	VOB	v	VOB	v	POB	p	ADV	v
+1	d	ADV	a	ATT	n	VOB	v	VOB	v	COO	v	SBV	i
+2	d	ADV	a	ATT	n	VOB	v	VOB	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	VOB	v	COO	v	ATT	n	SBV	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	VOB	v	COO	v	ADV	v
+6	d	ADV	a	ATT	n	VOB	v	VOB	v	COO	v
+42	d	ADV	a	ATT	n	VOB	v	VOB	v
+3	d	ADV	a	ATT	n	VOB	v	VOB	n
+12	d	ADV	a	ATT	n	VOB	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	SBV	u
+9	d	ADV	a	ATT	n	VOB	v	POB	p	ADV	v
+1	d	ADV	a	ATT	n	VOB	v	POB	c	ADV	v	COO	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	v	VOB	v	COO	i	ADV	v	ADV	r
+3	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	v	COO	i	ADV	v	ADV	r
+13	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	v
+1	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	n
+2	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	d	VOB	v	COO	i	ADV	v	ADV	r
+1	d	ADV	a	ATT	n	VOB	v	COO	v	VOB	d	COO	i	ADV	v	ADV	r
+1	d	ADV	a	ATT	n	VOB	v	COO	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	COO	v	POB	p	ADV	v	ADV	p
+3	d	ADV	a	ATT	n	VOB	v	COO	v	COO	v	VOB	v
+2	d	ADV	a	ATT	n	VOB	v	COO	v	COO	v	COO	v
+8	d	ADV	a	ATT	n	VOB	v	COO	v	COO	v
+2	d	ADV	a	ATT	n	VOB	v	COO	v	COO	p	ADV	v
+1	d	ADV	a	ATT	n	VOB	v	COO	v	ATT	n	SBV	v	SBV	v
+94	d	ADV	a	ATT	n	VOB	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	COO	nh	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	COO	n	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	COO	n
+2	d	ADV	a	ATT	n	VOB	v	COO	i
+8	d	ADV	a	ATT	n	VOB	v	COO	d
+1	d	ADV	a	ATT	n	VOB	v	COO	a	ADV	a
+1	d	ADV	a	ATT	n	VOB	v	CMP	v	VOB	v
+1	d	ADV	a	ATT	n	VOB	v	CMP	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	CMP	v	COO	v	COO	a
+4	d	ADV	a	ATT	n	VOB	v	CMP	v
+5	d	ADV	a	ATT	n	VOB	v	CMP	a	COO	v
+1	d	ADV	a	ATT	n	VOB	v	ATT	r
+4	d	ADV	a	ATT	n	VOB	v	ATT	nh	ATT	ws
+1	d	ADV	a	ATT	n	VOB	v	ATT	nd	COO	j
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	VOB	v	COO	v	ATT	n
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	SBV	p
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	ATT	ws	WP	p
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	ADV	v	VOB	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	ATT	n	ADV	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	ATT	n
+1	d	ADV	a	ATT	n	VOB	v	ADV	v	SBV	v
+1	d	ADV	a	ATT	n	VOB	v	ADV	v	COO	v	VOB	v
+1	d	ADV	a	ATT	n	VOB	v	ADV	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	VOB	v	ADV	v	ATT	n	VOB	v
+12	d	ADV	a	ATT	n	VOB	v	ADV	v
+1	d	ADV	a	ATT	n	VOB	v	ADV	u
+218	d	ADV	a	ATT	n	VOB	v
+1	d	ADV	a	ATT	n	VOB	p	ADV	v	COO	v
+1	d	ADV	a	ATT	n	VOB	p	ADV	v	ATT	n	SBV	v	SBV	v
+2	d	ADV	a	ATT	n	VOB	p	ADV	v
+1	d	ADV	a	ATT	n	VOB	p
+1	d	ADV	a	ATT	n	VOB	d	ADV	v	ATT	n	ATT	nh	SBV	v
+7	d	ADV	a	ATT	n	VOB	d
+1	d	ADV	a	ATT	n	VOB	c	COO	v
+1	d	ADV	a	ATT	n	VOB	c	COO	nd	POB	p	ADV	v
+1	d	ADV	a	ATT	n	VOB	c
+3	d	ADV	a	ATT	n	SBV	v	VOB	v	VOB	v	VOB	v
+6	d	ADV	a	ATT	n	SBV	v	VOB	v
+1	d	ADV	a	ATT	n	SBV	v	SBV	v
+1	d	ADV	a	ATT	n	SBV	v	COO	v	POB	p	ADV	v	ADV	p
+1	d	ADV	a	ATT	n	SBV	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	SBV	v	COO	v	COO	q	ADV	v
+1	d	ADV	a	ATT	n	SBV	v	COO	v	COO	a	ADV	v	POB	p	ADV	v
+1	d	ADV	a	ATT	n	SBV	v	COO	v	ADV	v
+20	d	ADV	a	ATT	n	SBV	v	COO	v
+1	d	ADV	a	ATT	n	SBV	v	ATT	v	SBV	p
+2	d	ADV	a	ATT	n	SBV	v	ATT	n	VOB	v	ATT	n	VOB	v	COO	v
+2	d	ADV	a	ATT	n	SBV	v	ATT	n	VOB	v
+157	d	ADV	a	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	SBV	u
+1	d	ADV	a	ATT	n	SBV	q	ADV	v
+1	d	ADV	a	ATT	n	SBV	q
+1	d	ADV	a	ATT	n	SBV	p	COO	v
+3	d	ADV	a	ATT	n	SBV	p
+3	d	ADV	a	ATT	n	SBV	i	COO	v	COO	v
+1	d	ADV	a	ATT	n	SBV	i	ATT	nh	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	SBV	d
+2	d	ADV	a	ATT	n	SBV	a	VOB	v
+2	d	ADV	a	ATT	n	SBV	a	ATT	n	ATT	q
+1	d	ADV	a	ATT	n	SBV	a	ADV	v	VOB	v
+2	d	ADV	a	ATT	n	POB	v	COO	v	COO	i
+1	d	ADV	a	ATT	n	POB	v	ADV	v
+1	d	ADV	a	ATT	n	POB	p	ATT	n	VOB	v	COO	v	VOB	v
+4	d	ADV	a	ATT	n	POB	p	ADV	v	VOB	v
+1	d	ADV	a	ATT	n	POB	p	ADV	v	SBV	v
+1	d	ADV	a	ATT	n	POB	p	ADV	v	COO	v	COO	v
+1	d	ADV	a	ATT	n	POB	p	ADV	v	COO	v	ATT	nd	ATT	n
+6	d	ADV	a	ATT	n	POB	p	ADV	v	COO	v
+7	d	ADV	a	ATT	n	POB	p	ADV	v
+9	d	ADV	a	ATT	n	POB	p	ADV	i	SBV	a	VOB	v
+5	d	ADV	a	ATT	n	POB	p	ADV	i	SBV	a	ATT	n
+1	d	ADV	a	ATT	n	POB	p	ADV	a	ATT	n
+1	d	ADV	a	ATT	n	POB	p	ADV	a
+1	d	ADV	a	ATT	n	FOB	v	VOB	v	COO	n	ATT	n	SBV	v	ADV	v
+1	d	ADV	a	ATT	n	FOB	v	VOB	v
+2	d	ADV	a	ATT	n	FOB	v	SBV	v
+2	d	ADV	a	ATT	n	FOB	v
+1	d	ADV	a	ATT	n	COO	v	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	COO	v	ATT	n	ADV	v
+4	d	ADV	a	ATT	n	COO	v
+1	d	ADV	a	ATT	n	COO	nz	COO	v
+3	d	ADV	a	ATT	n	COO	n	VOB	v	SBV	v
+2	d	ADV	a	ATT	n	COO	n	VOB	v	COO	v
+3	d	ADV	a	ATT	n	COO	n	VOB	v
+1	d	ADV	a	ATT	n	COO	n	SBV	v	COO	a	COO	b	POB	p	ADV	v
+1	d	ADV	a	ATT	n	COO	n	POB	v
+1	d	ADV	a	ATT	n	COO	n	COO	n
+1	d	ADV	a	ATT	n	COO	n	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	COO	n	ATT	n	ATT	m
+12	d	ADV	a	ATT	n	COO	n
+1	d	ADV	a	ATT	n	COO	i
+1	d	ADV	a	ATT	n	COO	d
+3	d	ADV	a	ATT	n	ATT	ws	SBV	v
+8	d	ADV	a	ATT	n	ATT	ws	POB	p	ADV	v
+12	d	ADV	a	ATT	n	ATT	ws
+1	d	ADV	a	ATT	n	ATT	v	POB	p	ADV	v
+5	d	ADV	a	ATT	n	ATT	v
+1	d	ADV	a	ATT	n	ATT	r	VOB	v	COO	v	SBV	v
+7	d	ADV	a	ATT	n	ATT	r	VOB	v	COO	v
+13	d	ADV	a	ATT	n	ATT	r	VOB	v
+6	d	ADV	a	ATT	n	ATT	r
+4	d	ADV	a	ATT	n	ATT	q
+2	d	ADV	a	ATT	n	ATT	ns	ATT	n	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	ATT	nh	VOB	v
+4	d	ADV	a	ATT	n	ATT	nh	SBV	v
+1	d	ADV	a	ATT	n	ATT	nh	COO	nh
+1	d	ADV	a	ATT	n	ATT	nh	COO	a
+1	d	ADV	a	ATT	n	ATT	nh	ATT	ws
+3	d	ADV	a	ATT	n	ATT	nh	ATT	v	VOB	v
+1	d	ADV	a	ATT	n	ATT	nh	ATT	v
+1	d	ADV	a	ATT	n	ATT	nh	ATT	nz	SBV	v	COO	v	VOB	v
+1	d	ADV	a	ATT	n	ATT	nh	ATT	nz	SBV	v
+1	d	ADV	a	ATT	n	ATT	nh	ATT	n	VOB	v
+1	d	ADV	a	ATT	n	ATT	nh	ATT	n
+1	d	ADV	a	ATT	n	ATT	nh
+5	d	ADV	a	ATT	n	ATT	nd	POB	p	ADV	v	ATT	n	ADV	v
+1	d	ADV	a	ATT	n	ATT	nd	POB	p	ADV	v
+1	d	ADV	a	ATT	n	ATT	nd	ATT	n	VOB	v
+3	d	ADV	a	ATT	n	ATT	n	VOB	v	VOB	v	COO	v	VOB	n
+1	d	ADV	a	ATT	n	ATT	n	VOB	v	VOB	v	ADV	v
+5	d	ADV	a	ATT	n	ATT	n	VOB	v	VOB	v
+1	d	ADV	a	ATT	n	ATT	n	VOB	v	COO	v	COO	v	COO	v
+6	d	ADV	a	ATT	n	ATT	n	VOB	v	COO	v	COO	v
+3	d	ADV	a	ATT	n	ATT	n	VOB	v	COO	v
+1	d	ADV	a	ATT	n	ATT	n	VOB	v	COO	a	VOB	v
+1	d	ADV	a	ATT	n	ATT	n	VOB	v	ATT	n	SBV	v	ADV	v
+1	d	ADV	a	ATT	n	ATT	n	VOB	v	ATT	n	ATT	r	VOB	v
+9	d	ADV	a	ATT	n	ATT	n	VOB	v
+1	d	ADV	a	ATT	n	ATT	n	VOB	p	ADV	a
+2	d	ADV	a	ATT	n	ATT	n	SBV	v	VOB	v
+1	d	ADV	a	ATT	n	ATT	n	SBV	v	COO	v	VOB	v
+4	d	ADV	a	ATT	n	ATT	n	SBV	v	COO	v
+2	d	ADV	a	ATT	n	ATT	n	SBV	v	ATT	n	SBV	v
+5	d	ADV	a	ATT	n	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	ATT	n	SBV	a	VOB	v
+1	d	ADV	a	ATT	n	ATT	n	SBV	a	POB	d	ADV	v
+4	d	ADV	a	ATT	n	ATT	n	POB	p	CMP	v	COO	v
+1	d	ADV	a	ATT	n	ATT	n	POB	p	CMP	v
+1	d	ADV	a	ATT	n	ATT	n	COO	v
+1	d	ADV	a	ATT	n	ATT	n	ATT	n	VOB	v	POB	p	CMP	v
+2	d	ADV	a	ATT	n	ATT	n	ATT	n	SBV	v
+1	d	ADV	a	ATT	n	ATT	n	ATT	n	ATT	ws
+4	d	ADV	a	ATT	n	ATT	n
+5	d	ADV	a	ATT	n	ATT	m
+1	d	ADV	a	ATT	n	ATT	i	VOB	v	COO	v	SBV	v
+1	d	ADV	a	ATT	n	ATT	b
+1	d	ADV	a	ATT	n	ADV	v	VOB	v	COO	v	SBV	v
+1	d	ADV	a	ATT	n	ADV	v	VOB	v	COO	v
+3	d	ADV	a	ATT	n	ADV	v	VOB	v
+1	d	ADV	a	ATT	n	ADV	v	ATT	n	VOB	v	VOB	v
+5	d	ADV	a	ATT	n	ADV	v	ATT	n	VOB	v	DBL	v
+1	d	ADV	a	ATT	n	ADV	v	ATT	n	ATT	nd	POB	p	ADV	v
+5	d	ADV	a	ATT	n	ADV	v
+1	d	ADV	a	ATT	n	ADV	a
+56	d	ADV	a	ATT	n
+1	d	ADV	a	ATT	m	VOB	v	COO	v
+3	d	ADV	a	ATT	m	VOB	v
+1	d	ADV	a	ATT	m	ATT	ws
+1	d	ADV	a	ATT	m	ADV	v	VOB	v
+1	d	ADV	a	ATT	k	SBV	v
+1	d	ADV	a	ATT	k	COO	n	SBV	v
+1	d	ADV	a	ATT	i
+1	d	ADV	a	ATT	e	VOB	v	COO	v	COO	v
+3	d	ADV	a	ATT	e
+4	d	ADV	a	ATT	b	ADV	v
+2	d	ADV	a	ATT	a	VOB	v
+2	d	ADV	a	ATT	a	SBV	c
+1	d	ADV	a	ATT	a	ADV	v	VOB	v
+1	d	ADV	a	ATT	a	ADV	v	ADV	v
+1	d	ADV	a	ATT	a
+2	d	ADV	a	ADV	v	VOB	v	VOB	v	COO	v	COO	v
+1	d	ADV	a	ADV	v	VOB	v	POB	p	VOB	v
+1	d	ADV	a	ADV	v	VOB	v	POB	p	ADV	v
+1	d	ADV	a	ADV	v	VOB	v	COO	v	VOB	v
+1	d	ADV	a	ADV	v	VOB	v	COO	v	VOB	n
+1	d	ADV	a	ADV	v	VOB	v	COO	v	COO	v	VOB	v
+1	d	ADV	a	ADV	v	VOB	v	COO	v	COO	v	VOB	n
+2	d	ADV	a	ADV	v	VOB	v	COO	v	COO	v
+2	d	ADV	a	ADV	v	VOB	v	COO	v	ADV	v
+9	d	ADV	a	ADV	v	VOB	v	COO	v
+1	d	ADV	a	ADV	v	VOB	v	CMP	v
+1	d	ADV	a	ADV	v	VOB	v	ATT	v	COO	v
+1	d	ADV	a	ADV	v	VOB	v	ATT	n	SBV	v
+1	d	ADV	a	ADV	v	VOB	v	ADV	v
+49	d	ADV	a	ADV	v	VOB	v
+1	d	ADV	a	ADV	v	VOB	p	SBV	v
+1	d	ADV	a	ADV	v	SBV	v	VOB	v	COO	n	VOB	v
+2	d	ADV	a	ADV	v	SBV	v	COO	v
+16	d	ADV	a	ADV	v	SBV	v
+1	d	ADV	a	ADV	v	SBV	c
+1	d	ADV	a	ADV	v	POB	p	ADV	v	VOB	v
+1	d	ADV	a	ADV	v	POB	p	ADV	v	COO	v
+1	d	ADV	a	ADV	v	POB	p	ADV	v	ATT	n	SBV	v
+5	d	ADV	a	ADV	v	POB	p	ADV	v
+1	d	ADV	a	ADV	v	POB	p
+1	d	ADV	a	ADV	v	FOB	v
+13	d	ADV	a	ADV	v	COO	v	VOB	v
+1	d	ADV	a	ADV	v	COO	v	SBV	v
+1	d	ADV	a	ADV	v	COO	v	POB	p	ADV	v
+1	d	ADV	a	ADV	v	COO	v	COO	v	VOB	v
+1	d	ADV	a	ADV	v	COO	v	COO	v	ATT	n	SBV	v
+7	d	ADV	a	ADV	v	COO	v	COO	v
+54	d	ADV	a	ADV	v	COO	v
+1	d	ADV	a	ADV	v	COO	i	VOB	v
+1	d	ADV	a	ADV	v	COO	i
+1	d	ADV	a	ADV	v	COO	a	VOB	v
+4	d	ADV	a	ADV	v	COO	a
+2	d	ADV	a	ADV	v	ATT	r	VOB	v	COO	v	COO	v
+4	d	ADV	a	ADV	v	ATT	r	VOB	v	COO	v
+1	d	ADV	a	ADV	v	ATT	nz	ATT	m
+1	d	ADV	a	ADV	v	ATT	nh	SBV	v
+1	d	ADV	a	ADV	v	ATT	nd	ADV	v	VOB	v
+3	d	ADV	a	ADV	v	ATT	n	VOB	v	COO	i
+7	d	ADV	a	ADV	v	ATT	n	VOB	v
+1	d	ADV	a	ADV	v	ATT	n	VOB	d
+2	d	ADV	a	ADV	v	ATT	n	SBV	v
+3	d	ADV	a	ADV	v	ATT	n	DBL	v
+1	d	ADV	a	ADV	v	ATT	n	ATT	ns	ATT	v
+2	d	ADV	a	ADV	v	ATT	n	ATT	nh	VOB	v
+4	d	ADV	a	ADV	v	ATT	n	ATT	nd	ADV	v
+1	d	ADV	a	ADV	v	ATT	n	ATT	n	ATT	n	ATT	n	FOB	v	SBV	v
+1	d	ADV	a	ADV	v	ATT	k	SBV	v
+1	d	ADV	a	ADV	v	ADV	v	POB	p	ADV	v
+2	d	ADV	a	ADV	v	ADV	v	COO	v
+5	d	ADV	a	ADV	v	ADV	v
+119	d	ADV	a	ADV	v
+1	d	ADV	a	ADV	e	POB	p
+1	d	ADV	a	ADV	a	ADV	v	VOB	v	COO	a
+3	d	ADV	a	ADV	a
+741	d	ADV	a
+1	c	LAD	n	COO	n	SBV	v	ATT	n	VOB	v
+3	c	LAD	i	COO	a	POB	p	CMP	v
+2	c	LAD	i	COO	a	ATT	n	ATT	nd	POB	p	CMP	v
+1	c	LAD	a	COO	a	VOB	v	SBV	v
+1	c	LAD	a	COO	a	VOB	v	COO	v
+1	c	LAD	a	COO	a	COO	i
+1	c	COO	v	COO	v	COO	a
+1	c	COO	v	COO	a
+1	c	COO	c	ADV	a
+1	c	ADV	v	SBV	a	COO	v
+1	c	ADV	v	SBV	a
+1	c	ADV	v	COO	v	COO	v
+3	c	ADV	v	COO	v	COO	a
+1	c	ADV	v	COO	v	ATT	n	ATT	v	SBV	v
+2	c	ADV	v	COO	v
+1	c	ADV	v	COO	a	SBV	v
+1	c	ADV	v	COO	a	ATT	n	VOB	v
+2	c	ADV	v	COO	a	ATT	n
+2	c	ADV	v	ADV	v
+7	c	ADV	v
+1	c	ADV	n	COO	n	POB	v	ADV	v
+1	c	ADV	n	ATT	nh	SBV	v
+2	c	ADV	a	COO	v	COO	v
+2	c	ADV	a	COO	v
+5	c	ADV	a	COO	o
+1	c	ADV	a	COO	nh	VOB	v
+1	c	ADV	a	COO	m	COO	m	VOB	v
+1	c	ADV	a	COO	a	COO	a	COO	a	CMP	v	COO	v	COO	v	COO	v
+2	c	ADV	a	COO	a	ATT	v	VOB	v
+2	c	ADV	a	COO	a	ATT	n	VOB	v
+1	c	ADV	a	COO	a	ATT	n	SBV	v
+2	c	ADV	a	COO	a	ADV	v
+3	c	ADV	a	ATT	n	COO	n	VOB	v	SBV	v
+7	c	ADV	a
+1	b	SBV	v	COO	v
+1	b	SBV	v	COO	a
+1	b	SBV	v
+4	b	SBV	a	COO	a	COO	b	ATT	j	ATT	ws	VOB	v
+1	b	SBV	a	COO	a	ATT	n	ATT	r	VOB	v
+3	b	SBV	a
+1	b	COO	n	ATT	n	ATT	n	SBV	i	VOB	v	ATT	n	VOB	v
+3	b	COO	b	ATT	n
+1	b	ATT	n	VOB	v	COO	v	COO	v
+1	b	ATT	n	VOB	v
+1	b	ATT	n	VOB	d
+1	b	ATT	n	COO	v
+3	b	ATT	n	ATT	v
+4	b	ATT	n
+2	b	ATT	a	VOB	v	COO	v
+1	b	ATT	a	VOB	v
+1	b	ATT	a	COO	v	SBV	v
+1	b	ADV	a	ATT	n	VOB	v
+1	b	ADV	a	ATT	n	SBV	v	VOB	v	VOB	v	SBV	v
+2	b	ADV	a	ATT	n	SBV	v
+3	b	ADV	a	ATT	n
+1	a	VOB	v	COO	a	VOB	v	ADV	v
+1	a	VOB	v	ATT	a	ADV	a
+1	a	VOB	v	ATT	a
+1	a	SBV	v
+1	a	COO	n	ATT	i
+1	a	COO	a	SBV	v
+3	a	COO	a	COO	a
+2	a	COO	a
+1	a	ATT	v	VOB	v
+1	a	ATT	r	SBV	v
+4	a	ATT	n	VOB	v	COO	v
+1	a	ATT	n	VOB	v	COO	a
+1	a	ATT	n	VOB	v
+2	a	ATT	n	SBV	v
+1	a	ATT	n	SBV	a	VOB	v
+6	a	ATT	n	ATT	n	VOB	v	COO	a
+1	a	ATT	n	ADV	v	COO	v
+3	a	ATT	n
+1	a	ATT	a	SBV	v
+1	a	ATT	a	COO	v
+3	a	ATT	a
+1	a	ADV	v	COO	v	VOB	v
+1	a	ADV	v	COO	e	COO	q
+1	a	ADV	v	ATT	n	SBV	a	COO	v
+1	a	ADV	v	ADV	v	COO	v
+1	a	ADV	v	ADV	v	COO	d	COO	v	COO	v
+3	a	ADV	v
+1	a	ADV	i	VOB	v	VOB	v
+1	a	ADV	i
+1	a	ADV	a	VOB	v
+1	a	ADV	a	COO	v
+1	a	ADV	a	COO	n
+4	a	ADV	a	COO	a
+7	a	ADV	a
